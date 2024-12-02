@@ -1,0 +1,30 @@
+[2024-11-17 16:52:03] Login process started
+[2024-11-17 16:52:03] User already logged in - user_id: 1
+[2024-11-17 16:52:03] Redirecting logged-in user to dashboard
+[2024-11-17 16:52:20] Login process started
+[2024-11-17 16:52:20] User already logged in - user_id: 1
+[2024-11-17 16:52:20] Redirecting logged-in user to dashboard
+[2024-11-17 22:37:32] Login process started
+[2024-11-17 22:37:32] User already logged in - user_id: 1
+[2024-11-17 22:37:32] Redirecting logged-in user to dashboard
+[2024-11-17 22:38:23] Login process started
+[2024-11-17 22:38:23] POST request received
+[2024-11-17 22:38:23] Login attempt - username: hakas
+[2024-11-17 22:38:23] Checking regular user credentials
+[2024-11-17 22:38:23] Database query executed - found rows: 1
+[2024-11-17 22:38:23] User found - verifying password
+[2024-11-17 22:38:23] Password verified successfully
+[2024-11-17 22:38:23] User session created - redirecting to dashboard
+[2024-11-17 22:39:54] Login process started
+[2024-11-17 22:39:54] POST request received
+[2024-11-17 22:39:54] Login attempt - username: admin
+[2024-11-17 22:39:54] Admin login successful
+[2024-11-17 22:39:54] Admin session created - redirecting to admin dashboard
+[2024-11-18 01:53:46] Login process started
+[2024-11-18 01:53:46] POST request received
+[2024-11-18 01:53:46] Login attempt - username: hakas
+[2024-11-18 01:53:46] Checking regular user credentials
+[2024-11-18 01:53:46] Database query executed - found rows: 1
+[2024-11-18 01:53:46] User found - verifying password
+[2024-11-18 01:53:46] Password verified successfully
+[2024-11-18 01:53:46] User session created - redirecting to dashboard
